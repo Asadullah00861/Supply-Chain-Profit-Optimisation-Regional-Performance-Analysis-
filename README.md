@@ -1,4 +1,4 @@
-# Supply Chain Profit Analysis & Forecasting
+# Supply Chain Profit Optimisation & Regional Performance Analysis 
 
 ## Project Overview
 This project focuses on analyzing supply chain profitability across markets and regions using SQL, Python, and Excel. It combines exploratory data analysis (EDA), KPI-driven SQL analytics, and predictive modeling to uncover profit trends, evaluate year-over-year (YoY) performance, and forecast future profitability. Insights are presented through an interactive Excel dashboard and reproducible SQL scripts.
